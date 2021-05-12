@@ -1,1 +1,3 @@
-# Precious2022.github.io
+# My first personal website
+
+Made thanks to **Girlcode**
